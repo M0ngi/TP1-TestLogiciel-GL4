@@ -2,7 +2,11 @@
 
 ## General
 
-Unit testing using Vitest
+Unit testing using Vitest. Trinome:
+
+- Naima Attia
+- Salma Seddik
+- Med Mongi Saidane
 
 ## Usage
 
