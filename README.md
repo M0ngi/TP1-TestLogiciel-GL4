@@ -2,7 +2,9 @@
 
 ## General
 
-Unit testing using Vitest. Trinome:
+Unit testing using Vitest.
+
+GL4 Trinome:
 
 - Naima Attia
 - Salma Seddik
